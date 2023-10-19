@@ -1,0 +1,1 @@
+I include 8examples.csv, 100examples.csv, here because you should first ensure you can overfit both of these before moving on to train.csv
